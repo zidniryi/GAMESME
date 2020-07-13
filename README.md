@@ -9,7 +9,7 @@ sudo gem install cocoapods
 ```
 cd GemesME
 pod install
-open GemesMe.xcworkspace
+open GamesME.xcworkspace
 ```
 ## Running
 Then just running in your Xcode, you should used Xcode version >= 11.x
